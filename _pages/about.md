@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-* I am an associate researcher (postdoctor) at the Institute of Artificial Intelligence, Hefei Comprehensive National Science Center. My collaborative supervisors are Prof. [Qi Liu](http://staff.ustc.edu.cn/~qiliuql/), and Prof. [Xun Chen](http://staff.ustc.edu.cn/~xunchen/).
+* I am an associate researcher (postdoctor) at [the Institute of Artificial Intelligence, Hefei Comprehensive National Science Center](https://iai.ustc.edu.cn/iai/index.html). My collaborative supervisors are Prof. [Qi Liu](http://staff.ustc.edu.cn/~qiliuql/), and Prof. [Xun Chen](http://staff.ustc.edu.cn/~xunchen/).
 * I received my Ph.D. degree in Data Science from the University of Science and Technology of China in July 2024, supervised by Prof. [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/),  and received my Bachelor degree in Measurement and Control Technology and Instrument from Wuhan University in July 2018. 
-* My research interests include data mining, knowledge discovery, user modeling, and intelligent education. I have published more than 20 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=aJgNc4wAAAAJ&hl'> Google Scholar citations <strong><span id='total_cit'>600+</span></strong></a>.
+* My research interests include data mining, knowledge discovery, user modeling, and intelligent education. **If you have any questions regarding my research, are interested in potential collaboration, or would like to discuss any other matters, please do not hesitate to contact me. I look forward to the opportunity to cooperate with you.**
 
 
 # 🔥 News
