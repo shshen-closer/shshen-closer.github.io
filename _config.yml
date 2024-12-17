@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shuanghong Shen"
-description              : "An associate researcher "
+description              : " Institute of Artificial Intelligence, Hefei Comprehensive National Science Center"
 repository               : "shshen-closer/shshen-closer.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shuanghong Shen"
   avatar           : "images/shen.png"
-  bio              : "Institute of Artificial Intelligence, Hefei Comprehensive National Science Center. "
+  bio              : "Associate Researcher"
   location         : "Hefei, China"
   employer         :
   pubmed           : 
