@@ -48,13 +48,15 @@ redirect_from:
 
 
 # 🎖 Honors and Awards
-- *2023,* The Special Prize of President Scholarship of Postgraduate Students. 
-- *2023,* China National Scholarship.
-- *2023,* Best Applied Paper of CCF BigData2023.
-- *2023,* Top 1 in the [AAAI'2023 Global Knowledge Tracing Challenge](https://ai4ed.cc/competitions/aaai2023competition). 
-- *2022,* Top 1 in Task 4 of the [NeurIPS'2022 CausalML Challenge](https://eedi.com/projects/neurips-2022). 
-- *2022,* Top 1 in Track 1 and Track 2 of the first phase, and Top 1 in Track 1, Top 2 in Track 2 of the second phase, of the [EDM'2022 2nd CSEDM Data Challenge](https://eedi.com/projects/neurips-2022).
-- *2020,* Top 1 in Task 2 of the [NeurIPS 2020 Education Challenge](https://eedi.com/projects/neurips-education-challenge).
+- *2023*: The Special Prize of President Scholarship of Postgraduate Students. 
+- *2023*: China National Scholarship.
+- *2023*: Best Applied Paper of CCF BigData2023.
+- *2023*: Top 1 in the [AAAI'2023 Global Knowledge Tracing Challenge](https://ai4ed.cc/competitions/aaai2023competition).
+- *2023*: Top 4 in Task 2 of the [Baidu 2023 CTI Challenge](https://aistudio.baidu.com/aistudio/projectdetail/6120125).
+- *2022*: Top 1 in Task 4 of the [NeurIPS'2022 CausalML Challenge](https://eedi.com/projects/neurips-2022). 
+- *2022*: Top 1 in Track 1 and Track 2 of the first phase, and Top 1 in Track 1, Top 2 in Track 2 of the second phase, of the [EDM'2022 2nd CSEDM Data Challenge](https://eedi.com/projects/neurips-2022).
+- *2021*: Top 10 in Task 1 of the [Tecent 2021 Advertising Algorithm Challenge](https://algo.qq.com/).
+- *2020*: Top 1 in Task 2 of the [NeurIPS 2020 Education Challenge](https://eedi.com/projects/neurips-education-challenge).
 
 
 # 📖 Educations
