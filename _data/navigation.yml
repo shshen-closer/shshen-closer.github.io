@@ -1,4 +1,4 @@
-# main links links
+vi# main links links
 main:
   - title: "About Me"
     url: "/#about-me"
@@ -15,8 +15,8 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "Services"
+    url: "/#-services"
 
   - title: "Internships"
     url: "/#-internships"
