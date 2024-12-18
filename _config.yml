@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shuanghong Shen （沈双宏）"
-description              : " Institute of Artificial Intelligence, Hefei Comprehensive National Science Center"
+title                    : "Shuanghong Shen"
+description              : "Institute of Artificial Intelligence, Hefei Comprehensive National Science Center"
 repository               : "shshen-closer/shshen-closer.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shuanghong Shen"
+  name             : "Shuanghong Shen（沈双宏）"
   avatar           : "images/shen.png"
   bio              : "Associate Researcher"
   location         : "Hefei, China"
