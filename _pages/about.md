@@ -23,6 +23,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉🎉 One paper accepted by Knowledge-Based Systems.
 - *2024.12*: &nbsp;🎉🎉 One paper accepted by AAAI 2025.
 - *2024.11*: &nbsp;🎉🎉 One paper accepted by KDD 2025. 
 
@@ -30,6 +31,7 @@ redirect_from:
 
 ( ✉ Corresponding Author, † Equal Contribution )
 
+- Xinjie Sun, Qi Liu, Kai Zhang, **Shuanghong Shen✉**, Lina Yang, Hui Li. [Harnessing code domain insights: Enhancing programming Knowledge Tracing with Large Language Models](https://www.sciencedirect.com/science/article/pii/S0950705125004435). **Knowledge-Based Systems**
 - Zixiao Kong, Xianquan Wang, **Shuanghong Shen✉**, Keyu Zhu, Huibo Xu, Yu Su. [ScholarGEC: Enhancing Controllability of Large Language Model for Chinese Academic Grammatical Error Correction](). **AAAI 2025**
 - Xianquan Wang, Likang Wu, Zhi Li, Haitao Yuan, **Shuanghong Shen✉**, Huibo Xu, Yu Su, Chenyi Lei. [Mitigating Redundancy in Deep Recommender Systems: A Field Importance Distribution Perspective](). **KDD 2025**
 - **Shuanghong Shen**, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, Enhong Chen. [A Survey of Knowledge Tracing: Models, Variants, and Applications](https://ieeexplore.ieee.org/abstract/document/10494775). **IEEE TLT 2024**
