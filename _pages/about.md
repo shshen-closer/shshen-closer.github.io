@@ -23,6 +23,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 One paper accepted by Neural Networks.
 - *2025.04*: &nbsp;🎉🎉 One paper accepted by Knowledge-Based Systems.
 - *2024.12*: &nbsp;🎉🎉 One paper accepted by AAAI 2025.
 - *2024.11*: &nbsp;🎉🎉 One paper accepted by KDD 2025. 
@@ -30,23 +31,23 @@ redirect_from:
 # 📝 Selected Publications 
 
 ( ✉ Corresponding Author, † Equal Contribution )
-
-- Xinjie Sun, Qi Liu, Kai Zhang, **Shuanghong Shen✉**, Lina Yang, Hui Li. [Harnessing code domain insights: Enhancing programming Knowledge Tracing with Large Language Models](https://www.sciencedirect.com/science/article/pii/S0950705125004435). **Knowledge-Based Systems**
-- Zixiao Kong, Xianquan Wang, **Shuanghong Shen✉**, Keyu Zhu, Huibo Xu, Yu Su. [ScholarGEC: Enhancing Controllability of Large Language Model for Chinese Academic Grammatical Error Correction](). **AAAI 2025**
-- Xianquan Wang, Likang Wu, Zhi Li, Haitao Yuan, **Shuanghong Shen✉**, Huibo Xu, Yu Su, Chenyi Lei. [Mitigating Redundancy in Deep Recommender Systems: A Field Importance Distribution Perspective](). **KDD 2025**
-- **Shuanghong Shen**, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, Enhong Chen. [A Survey of Knowledge Tracing: Models, Variants, and Applications](https://ieeexplore.ieee.org/abstract/document/10494775). **IEEE TLT 2024**
-- Yu Su, Ze Han, **Shuanghong Shen✉**, Xuejie Yang, Zhenya Huang, Jinze Wu, Huawei Zhou, Qi Liu. [Constructing a Confidence-guided Multigraph Model for cognitive diagnosis in personalized learning](https://www.sciencedirect.com/science/article/abs/pii/S0957417424011254). **ESWA 2024**
-- Yu Su, **Shuanghong Shen✉**, Enhong Chen, Qi Liu, Zhenya Huang, Wei Huang, Yu Yin, Yu Su, Shijin Wang. [Global and Local Neural Cognitive Modeling for Student Performance Prediction](https://www.sciencedirect.com/science/article/abs/pii/S0957417423021395). **ESWA 2024**
-- **Shuanghong Shen**, Enhong Chen, Qi Liu, Zhenya Huang, Wei Huang, Yu Yin, Yu Su, Shijin Wang. [Monitoring Student Progress for Learning Process-Consistent Knowledge Tracing](https://ieeexplore.ieee.org/abstract/document/9950313). **IEEE TKDE 2022**
-- **Shuanghong Shen**, Zhenya Huang, Qi Liu, Yu Su, Shijin Wang, Enhong Chen. [Assessing Student’s Dynamic Knowledge State by Exploring the Question Difficulty Effect](https://dl.acm.org/doi/abs/10.1145/3477495.3531939). **SIGIR 2022**
-- **Shuanghong Shen**, Qi Liu, Enhong Chen, Zhenya Huang, Wei Huang, Yu Yin, Yu Su, Shijin Wang. [Learning Process-consistent Knowledge Tracing](https://dl.acm.org/doi/abs/10.1145/3447548.3467237). **KDD 2021**
-- **Shuanghong Shen**,  Qi Liu, Enhong Chen, Han Wu, Zhenya Huang, Weihao Zhao, Yu Su, Haiping Ma, Shijin Wang. [Convolutional Knowledge Tracing: Modeling Individualization in Student Learning Process](https://dl.acm.org/doi/abs/10.1145/3397271.3401288). **SIGIR 2020**
-- Shuting Li, **Shuanghong Shen**, Yu Su, Xinjie Sun, Junyu Lu, Qi Mo, Zhenyi Wu, Qi Liu. [STHKT: Spatiotemporal Knowledge Tracing with Topological Hawkes Process](https://www.sciencedirect.com/science/article/abs/pii/S0957417424021158). **ESWA 2025**
-- Suojuan Zhang, Jie Pu, Jing Cui, **Shuanghong Shen**, Weiwei Chen, Kun Hu, Enhong Chen. [MLC-DKT: A multi-layer context-aware deep knowledge tracing model](https://www.sciencedirect.com/science/article/abs/pii/S0950705124010189). **KBS 2024**
-- Yuxiang Guo, **Shuanghong Shen**, Qi Liu, Zhenya Huang, Linbo Zhu, Yu Su, Enhong Chen. [Mitigating Cold-Start Problems in Knowledge Tracing with Large Language Models: An Attribute-aware Approach](https://dl.acm.org/doi/abs/10.1145/3627673.3679664). **CIKM 2024**
-- Haotian Zhang, **Shuanghong Shen**, Bihan Xu, Zhenya Huang, Jinze Wu, Jing Sha, Shijin Wang. [Item-Difficulty-Aware Learning Path Recommendation: From a Real Walking Perspective](https://dl.acm.org/doi/abs/10.1145/3637528.3671947). **KDD 2024**
-- Bihan Xu, Zhenya Huang, Jiayu Liu, **Shuanghong Shen**, Qi Liu, Enhong Chen, Jinze Wu, Shijin Wang. [Learning behavior-oriented knowledge tracing](https://dl.acm.org/doi/abs/10.1145/3580305.3599407). **KDD 2023**
-- Yu Yin, Le Dai, Zhenya Huang, **Shuanghong Shen**, Fei Wang, Qi Liu, Enhong Chen, Xin Li. [Tracing knowledge instead of patterns: Stable knowledge tracing with diagnostic transformer](https://dl.acm.org/doi/abs/10.1145/3543507.3583255). **WWW 2023**
+- **Shuanghong Shen**, Qi Liu, Zhenya Huang, Linbo Zhu, Junyu Lu, Kai Zhang. [Practicing in quiz, assessing in quiz: A Quiz-based neural network approach for knowledge tracing](https://www.sciencedirect.com/science/article/pii/S089360802500677X).
+- Xinjie Sun, Qi Liu, Kai Zhang, **Shuanghong Shen✉**, Lina Yang, Hui Li. [Harnessing code domain insights: Enhancing programming Knowledge Tracing with Large Language Models](https://www.sciencedirect.com/science/article/pii/S0950705125004435)[J]. Knowledge-Based Systems, 2025, 317: 113396. 
+- Zixiao Kong, Xianquan Wang, **Shuanghong Shen✉**, Keyu Zhu, Huibo Xu, Yu Su. [ScholarGEC: Enhancing Controllability of Large Language Model for Chinese Academic Grammatical Error Correction](https://ojs.aaai.org/index.php/AAAI/article/view/34611)[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2025, 39(23): 24339-24347.
+- Xianquan Wang, Likang Wu, Zhi Li, Haitao Yuan, **Shuanghong Shen✉**, Huibo Xu, Yu Su, Chenyi Lei. [Mitigating Redundancy in Deep Recommender Systems: A Field Importance Distribution Perspective](https://dl.acm.org/doi/abs/10.1145/3690624.3709275)[C]//Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 1. 2025: 1515-1526.
+- **Shuanghong Shen**, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, Enhong Chen. [A Survey of Knowledge Tracing: Models, Variants, and Applications](https://ieeexplore.ieee.org/abstract/document/10494775). 
+- Yu Su, Ze Han, **Shuanghong Shen✉**, Xuejie Yang, Zhenya Huang, Jinze Wu, Huawei Zhou, Qi Liu. [Constructing a Confidence-guided Multigraph Model for cognitive diagnosis in personalized learning](https://www.sciencedirect.com/science/article/abs/pii/S0957417424011254). 
+- Yu Su, **Shuanghong Shen✉**, Enhong Chen, Qi Liu, Zhenya Huang, Wei Huang, Yu Yin, Yu Su, Shijin Wang. [Global and Local Neural Cognitive Modeling for Student Performance Prediction](https://www.sciencedirect.com/science/article/abs/pii/S0957417423021395).
+- **Shuanghong Shen**, Enhong Chen, Qi Liu, Zhenya Huang, Wei Huang, Yu Yin, Yu Su, Shijin Wang. [Monitoring Student Progress for Learning Process-Consistent Knowledge Tracing](https://ieeexplore.ieee.org/abstract/document/9950313).
+- **Shuanghong Shen**, Zhenya Huang, Qi Liu, Yu Su, Shijin Wang, Enhong Chen. [Assessing Student’s Dynamic Knowledge State by Exploring the Question Difficulty Effect](https://dl.acm.org/doi/abs/10.1145/3477495.3531939).
+- **Shuanghong Shen**, Qi Liu, Enhong Chen, Zhenya Huang, Wei Huang, Yu Yin, Yu Su, Shijin Wang. [Learning Process-consistent Knowledge Tracing](https://dl.acm.org/doi/abs/10.1145/3447548.3467237).
+- **Shuanghong Shen**,  Qi Liu, Enhong Chen, Han Wu, Zhenya Huang, Weihao Zhao, Yu Su, Haiping Ma, Shijin Wang. [Convolutional Knowledge Tracing: Modeling Individualization in Student Learning Process](https://dl.acm.org/doi/abs/10.1145/3397271.3401288).
+- Shuting Li, **Shuanghong Shen**, Yu Su, Xinjie Sun, Junyu Lu, Qi Mo, Zhenyi Wu, Qi Liu. [STHKT: Spatiotemporal Knowledge Tracing with Topological Hawkes Process](https://www.sciencedirect.com/science/article/abs/pii/S0957417424021158).
+- Suojuan Zhang, Jie Pu, Jing Cui, **Shuanghong Shen**, Weiwei Chen, Kun Hu, Enhong Chen. [MLC-DKT: A multi-layer context-aware deep knowledge tracing model](https://www.sciencedirect.com/science/article/abs/pii/S0950705124010189).
+- Yuxiang Guo, **Shuanghong Shen**, Qi Liu, Zhenya Huang, Linbo Zhu, Yu Su, Enhong Chen. [Mitigating Cold-Start Problems in Knowledge Tracing with Large Language Models: An Attribute-aware Approach](https://dl.acm.org/doi/abs/10.1145/3627673.3679664).
+- Haotian Zhang, **Shuanghong Shen**, Bihan Xu, Zhenya Huang, Jinze Wu, Jing Sha, Shijin Wang. [Item-Difficulty-Aware Learning Path Recommendation: From a Real Walking Perspective](https://dl.acm.org/doi/abs/10.1145/3637528.3671947).
+- Bihan Xu, Zhenya Huang, Jiayu Liu, **Shuanghong Shen**, Qi Liu, Enhong Chen, Jinze Wu, Shijin Wang. [Learning behavior-oriented knowledge tracing](https://dl.acm.org/doi/abs/10.1145/3580305.3599407).
+- Yu Yin, Le Dai, Zhenya Huang, **Shuanghong Shen**, Fei Wang, Qi Liu, Enhong Chen, Xin Li. [Tracing knowledge instead of patterns: Stable knowledge tracing with diagnostic transformer](https://dl.acm.org/doi/abs/10.1145/3543507.3583255).
 
 
 # 🎖 Honors and Awards
