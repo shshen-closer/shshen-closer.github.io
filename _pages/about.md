@@ -23,6 +23,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 One paper accepted by Information Processing & Management.
 - *2025.07*: &nbsp;🎉🎉 One paper accepted by Neural Networks.
 - *2025.04*: &nbsp;🎉🎉 One paper accepted by Knowledge-Based Systems.
 - *2024.12*: &nbsp;🎉🎉 One paper accepted by AAAI 2025.
@@ -31,7 +32,8 @@ redirect_from:
 # 📝 Selected Publications 
 
 ( ✉ Corresponding Author, † Equal Contribution )
-- **Shuanghong Shen**, Qi Liu, Zhenya Huang, Linbo Zhu, Junyu Lu, Kai Zhang. [Practicing in quiz, assessing in quiz: A Quiz-based neural network approach for knowledge tracing](https://www.sciencedirect.com/science/article/pii/S089360802500677X).
+- Huawei Zhou,  **Shuanghong Shen✉**, Yu Su, Yongchun Miao, Qi Liu, Linbo Zhu, Junyu Lu, Zhenya Huang. [LLM-EPSP: Large language model empowered early prediction of student performance](https://www.sciencedirect.com/science/article/pii/S0306457325002924)[J]. Information Processing & Management, 2026, 63(1): 104351. 
+- **Shuanghong Shen**, Qi Liu, Zhenya Huang, Linbo Zhu, Junyu Lu, Kai Zhang. [Practicing in quiz, assessing in quiz: A Quiz-based neural network approach for knowledge tracing](https://www.sciencedirect.com/science/article/pii/S089360802500677X)[J]. Neural Networks, 2025: 107797.
 - Xinjie Sun, Qi Liu, Kai Zhang, **Shuanghong Shen✉**, Lina Yang, Hui Li. [Harnessing code domain insights: Enhancing programming Knowledge Tracing with Large Language Models](https://www.sciencedirect.com/science/article/pii/S0950705125004435)[J]. Knowledge-Based Systems, 2025, 317: 113396. 
 - Zixiao Kong, Xianquan Wang, **Shuanghong Shen✉**, Keyu Zhu, Huibo Xu, Yu Su. [ScholarGEC: Enhancing Controllability of Large Language Model for Chinese Academic Grammatical Error Correction](https://ojs.aaai.org/index.php/AAAI/article/view/34611)[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2025, 39(23): 24339-24347.
 - Xianquan Wang, Likang Wu, Zhi Li, Haitao Yuan, **Shuanghong Shen✉**, Huibo Xu, Yu Su, Chenyi Lei. [Mitigating Redundancy in Deep Recommender Systems: A Field Importance Distribution Perspective](https://dl.acm.org/doi/abs/10.1145/3690624.3709275)[C]//Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 1. 2025: 1515-1526.
