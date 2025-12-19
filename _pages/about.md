@@ -23,6 +23,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 One paper accepted by IEEE Transactions on Multimedia.
 - *2025.08*: &nbsp;🎉🎉 One paper accepted by Information Processing & Management.
 - *2025.07*: &nbsp;🎉🎉 One paper accepted by Neural Networks.
 - *2025.04*: &nbsp;🎉🎉 One paper accepted by Knowledge-Based Systems.
