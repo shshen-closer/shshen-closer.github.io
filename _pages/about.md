@@ -23,7 +23,7 @@ redirect_from:
 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 One paper accepted by Transactions on Information Systems.
+- *2026.01*: &nbsp;🎉🎉 One paper accepted by ACM Transactions on Information Systems.
 - *2025.12*: &nbsp;🎉🎉 One paper accepted by IEEE Transactions on Multimedia.
 - *2025.08*: &nbsp;🎉🎉 One paper accepted by Information Processing & Management.
 - *2025.07*: &nbsp;🎉🎉 One paper accepted by Neural Networks.
