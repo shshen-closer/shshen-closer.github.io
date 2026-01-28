@@ -34,7 +34,7 @@ redirect_from:
 # 📝 Selected Publications 
 
 ( ✉ Corresponding Author, † Equal Contribution )
-- **Shuanghong Shen**, Qi Mo, Zhenya Huang, Yu Su, Linbo Zhu, Junyu, Qi Liu. [Towards Fine-grained Knowledge Tracing by Hierarchical Fusion of Multiple Question Attributes()[J]. ACM Transactions on Information Systems, 2026, accepted.
+- **Shuanghong Shen**, Qi Mo, Zhenya Huang, Yu Su, Linbo Zhu, Junyu, Qi Liu. [Towards Fine-grained Knowledge Tracing by Hierarchical Fusion of Multiple Question Attributes]()[J]. ACM Transactions on Information Systems, 2026, accepted.
 - Zixuan Qin, **Shuanghong Shen✉**, Dengdi Sun, Keyu Zhu, Zhenya Huang, Qi Liu, Shijin Wang. [GLP-fusion: A Hierarchical Multimodal Fusion Framework for Robust Student Engagement Prediction]()[J]. IEEE Transactions on Multimedia, 2026, accepted. 
 - Huawei Zhou,  **Shuanghong Shen✉**, Yu Su, Yongchun Miao, Qi Liu, Linbo Zhu, Junyu Lu, Zhenya Huang. [LLM-EPSP: Large language model empowered early prediction of student performance](https://www.sciencedirect.com/science/article/pii/S0306457325002924)[J]. Information Processing & Management, 2026, 63(1): 104351. 
 - **Shuanghong Shen**, Qi Liu, Zhenya Huang, Linbo Zhu, Junyu Lu, Kai Zhang. [Practicing in quiz, assessing in quiz: A Quiz-based neural network approach for knowledge tracing](https://www.sciencedirect.com/science/article/pii/S089360802500677X)[J]. Neural Networks, 2025: 107797.
