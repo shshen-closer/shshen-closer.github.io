@@ -42,60 +42,69 @@
 
 .paper-box {
     display: flex;
-    justify-content: left;
+    justify-content: flex-start;
     align-items: center;
     flex-direction: row;
-    flex-wrap: wrap;
-    background: #ffffff;
-    border: 1px solid rgba(0,0,0,0.03);
-    border-radius: $border-radius;
-    padding: 1.5em;
-    margin-bottom: 1.5em;
-    box-shadow: $box-shadow;
+    flex-wrap: nowrap;
+    padding: 1.5em 0;
+    margin-bottom: 0;
+    border-bottom: 1px solid rgba(0,0,0,0.05);
+    background: transparent;
     transition: $global-transition;
 
+    &:last-child {
+        border-bottom: none;
+    }
+
     &:hover {
-        transform: translateY(-5px);
-        box-shadow: $box-shadow-hover;
+        background: rgba(0, 0, 0, 0.015);
+        border-radius: 8px;
     }
     
     .paper-box-image{
-        justify-content: center;
+        flex: 0 0 250px;
+        margin-right: 2rem;
         display: flex;
-        width: 100%;
-        order: 2;
+        justify-content: center;
+        align-items: center;
+        order: 1;
+        
+        @include breakpoint(max-width $medium) {
+            flex: 0 0 100%;
+            margin-right: 0;
+            margin-bottom: 1rem;
+            order: 2; /* Image below text on mobile */
+        }
+
         img {
+            width: 100%;
             max-width: 400px;
             box-shadow: 0 4px 15px rgba(0,0,0,0.06);
             border-radius: 8px;
             object-fit: cover;
-            transition: $global-transition;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            
+            &:hover {
+                transform: translateY(-2px);
+                box-shadow: 0 8px 25px rgba(0,0,0,0.12);
+            }
         }
     }
     
     .paper-box-text{
-        max-width: 100%;
-        order: 1;
-    }
-    
-    @include breakpoint($medium) {
-        .paper-box-image{
-            justify-content: left;
-            min-width: 200px;
-            max-width: 40%;
+        flex: 1;
+        min-width: 0;
+        order: 2;
+        
+        @include breakpoint(max-width $medium) {
             order: 1;
         }
-        
-        .paper-box-text{
-            justify-content: left;
-            padding-left: 2em;
-            max-width: 60%;
-            order: 2;
+
+        p {
+            margin-bottom: 0.5rem;
+            line-height: 1.6;
         }
-
     }
-
-
 }
 
 $scroll_offset : 2em;

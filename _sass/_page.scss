@@ -17,19 +17,18 @@
 }
 
 .page {
-  @include breakpoint($large) {
-    @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
-    @include suffix(0 of 12);
-  }
+  max-width: 900px;
+  margin: 0 auto;
+  width: 100%;
+  padding: 0 2rem;
 
   .page__inner-wrap {
     @include full();
-    background: #ffffff;
-    border-radius: $border-radius;
-    box-shadow: $box-shadow;
-    padding: 3rem;
-    border: 1px solid rgba(0,0,0,0.03);
+    background: transparent;
+    border-radius: 0;
+    box-shadow: none;
+    padding: 0;
+    border: none;
     margin-bottom: 3em;
 
     .page__content,
@@ -56,20 +55,15 @@
 
 .page__content {
   #about-me{
-    margin-top: -10em;
-      &:before { 
-        content: ''; 
-        display: block; 
-        position: relative; 
-        width: 0; 
-        height: 10em; 
-        margin-top: -10em;
-    }
+    display: none; /* Hero hides the need for anchor-space hack */
   }
   h1 {
-    margin-top: 1em;
-    padding-bottom: 0.5em;
-    border-bottom: 1px solid $border-color;
+    font-family: $header-font-family;
+    font-size: 2.5rem;
+    color: $heading-color;
+    margin-top: 3rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 2px solid rgba(0,0,0,0.05);
   }
 
   p, li, dl {
