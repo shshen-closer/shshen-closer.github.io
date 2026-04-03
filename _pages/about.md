@@ -30,15 +30,16 @@ redirect_from:
 <h2 id="selected-publications">📝 Selected Publications</h2>
 <p><em>( ✉ Corresponding Author, † Equal Contribution )</em></p>
 
+
 <div class="paper-box">
   <div class="paper-box-image">
     <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
   </div>
   <div class="paper-box-text">
-    <p><strong>Towards Fine-grained Knowledge Tracing by Hierarchical Fusion of Multiple Question Attributes</strong></p>
+    <p><a href=""><strong>Towards Fine-grained Knowledge Tracing by Hierarchical Fusion of Multiple Question Attributes</strong></a></p>
     <p><strong>Shuanghong Shen</strong>, Qi Mo, Zhenya Huang, Yu Su, Linbo Zhu, Junyu, Qi Liu.</p>
     <p><em>ACM Transactions on Information Systems, 2026, accepted.</em> [J]</p>
-    <p class="paper-intro" style="font-size: 0.9em; color: #555; margin-top: 0.5rem;">This paper introduces novel methodologies tailored to address the challenges outlined in Towards Fine-grained Knowledge Tracing by Hierarchical Fusion of Multiple Question Attributes. By leveraging advanced techniques, it demonstrates significant improvements over existing baselines, highlighting its potential for broader applications in the field.</p>
+    <p class="paper-intro" style="font-size: 0.9em; color: #555; margin-top: 0.5rem;">This paper introduces novel methodologies tailored to address the challenges outlined in Towards Fine-grained Knowledge Tracing by Hierarchical Fusion of Multiple Question Attributes. By leveraging advanced techniques, it demonstrates significant improvements over existing baselines.</p>
   </div>
 </div>
 
@@ -47,10 +48,10 @@ redirect_from:
     <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
   </div>
   <div class="paper-box-text">
-    <p><strong>GLP-fusion: A Hierarchical Multimodal Fusion Framework for Robust Student Engagement Prediction</strong></p>
+    <p><a href=""><strong>GLP-fusion: A Hierarchical Multimodal Fusion Framework for Robust Student Engagement Prediction</strong></a></p>
     <p>Zixuan Qin, <strong>Shuanghong Shen</strong>✉, Dengdi Sun, Keyu Zhu, Zhenya Huang, Qi Liu, Shijin Wang.</p>
     <p><em>IEEE Transactions on Multimedia, 2026, accepted.</em> [J]</p>
-    <p class="paper-intro" style="font-size: 0.9em; color: #555; margin-top: 0.5rem;">This paper introduces novel methodologies tailored to address the challenges outlined in GLP-fusion: A Hierarchical Multimodal Fusion Framework for Robust Student Engagement Prediction. By leveraging advanced techniques, it demonstrates significant improvements over existing baselines, highlighting its potential for broader applications in the field.</p>
+    <p class="paper-intro" style="font-size: 0.9em; color: #555; margin-top: 0.5rem;">This paper introduces novel methodologies tailored to address the challenges outlined in GLP-fusion: A Hierarchical Multimodal Fusion Framework for Robust Student Engagement Prediction. By leveraging advanced techniques, it demonstrates significant improvements over existing baselines.</p>
   </div>
 </div>
 
@@ -59,10 +60,10 @@ redirect_from:
     <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
   </div>
   <div class="paper-box-text">
-    <p><strong>LLM-EPSP: Large language model empowered early prediction of student performance</strong></p>
+    <p><a href="https://www.sciencedirect.com/science/article/pii/S0306457325002924"><strong>LLM-EPSP: Large language model empowered early prediction of student performance</strong></a></p>
     <p>Huawei Zhou,  <strong>Shuanghong Shen</strong>✉, Yu Su, Yongchun Miao, Qi Liu, Linbo Zhu, Junyu Lu, Zhenya Huang.</p>
     <p><em>Information Processing & Management, 2026, 63(1): 104351.</em> [J]</p>
-    <p class="paper-intro" style="font-size: 0.9em; color: #555; margin-top: 0.5rem;">This paper introduces novel methodologies tailored to address the challenges outlined in LLM-EPSP: Large language model empowered early prediction of student performance. By leveraging advanced techniques, it demonstrates significant improvements over existing baselines, highlighting its potential for broader applications in the field.</p>
+    <p class="paper-intro" style="font-size: 0.9em; color: #555; margin-top: 0.5rem;">This paper introduces novel methodologies tailored to address the challenges outlined in LLM-EPSP. By leveraging advanced techniques, it demonstrates significant improvements over existing baselines.</p>
   </div>
 </div>
 
@@ -71,10 +72,10 @@ redirect_from:
     <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
   </div>
   <div class="paper-box-text">
-    <p><strong>Practicing in quiz, assessing in quiz: A Quiz-based neural network approach for knowledge tracing</strong></p>
+    <p><a href="https://www.sciencedirect.com/science/article/pii/S089360802500677X"><strong>Practicing in quiz, assessing in quiz: A Quiz-based neural network approach for knowledge tracing</strong></a></p>
     <p><strong>Shuanghong Shen</strong>, Qi Liu, Zhenya Huang, Linbo Zhu, Junyu Lu, Kai Zhang.</p>
     <p><em>Neural Networks, 2025: 107797.</em> [J]</p>
-    <p class="paper-intro" style="font-size: 0.9em; color: #555; margin-top: 0.5rem;">This paper introduces novel methodologies tailored to address the challenges outlined in Practicing in quiz, assessing in quiz: A Quiz-based neural network approach for knowledge tracing. By leveraging advanced techniques, it demonstrates significant improvements over existing baselines, highlighting its potential for broader applications in the field.</p>
+    <p class="paper-intro" style="font-size: 0.9em; color: #555; margin-top: 0.5rem;">This paper introduces novel methodologies tailored to address the challenges outlined in Practicing in quiz, assessing in quiz. By leveraging advanced techniques, it demonstrates significant improvements over existing baselines.</p>
   </div>
 </div>
 
@@ -83,18 +84,13 @@ redirect_from:
     <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
   </div>
   <div class="paper-box-text">
-    <p><strong>Harnessing code domain insights: Enhancing programming Knowledge Tracing with Large Language Models</strong></p>
+    <p><a href="https://www.sciencedirect.com/science/article/pii/S0950705125004435"><strong>Harnessing code domain insights: Enhancing programming Knowledge Tracing with Large Language Models</strong></a></p>
     <p>Xinjie Sun, Qi Liu, Kai Zhang, <strong>Shuanghong Shen</strong>✉, Lina Yang, Hui Li.</p>
     <p><em>Knowledge-Based Systems, 2025, 317: 113396.</em> [J]</p>
-    <p class="paper-intro" style="font-size: 0.9em; color: #555; margin-top: 0.5rem;">This paper introduces novel methodologies tailored to address the challenges outlined in Harnessing code domain insights: Enhancing programming Knowledge Tracing with Large Language Models. By leveraging advanced techniques, it demonstrates significant improvements over existing baselines, highlighting its potential for broader applications in the field.</p>
+    <p class="paper-intro" style="font-size: 0.9em; color: #555; margin-top: 0.5rem;">This paper introduces novel methodologies tailored to address the challenges outlined in Harnessing code domain insights. By leveraging advanced techniques, it demonstrates significant improvements over existing baselines.</p>
   </div>
 </div>
 
-<div class="paper-box">
-  <div class="paper-box-image">
-    <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
-  </div>
-  <div class="paper-box-text">
 <div class="paper-box">
   <div class="paper-box-image">
     <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
@@ -124,10 +120,10 @@ redirect_from:
     <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
   </div>
   <div class="paper-box-text">
-    <p><strong>A Survey of Knowledge Tracing: Models, Variants, and Applications</strong></p>
+    <p><a href="https://ieeexplore.ieee.org/abstract/document/10494775"><strong>A Survey of Knowledge Tracing: Models, Variants, and Applications</strong></a></p>
     <p><strong>Shuanghong Shen</strong>, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, Enhong Chen.</p>
     <p><em>IEEE Transactions on Learning Technologies, 2024, 17: 1858-1879.</em> [J]</p>
-    <p class="paper-intro" style="font-size: 0.9em; color: #555; margin-top: 0.5rem;">This paper introduces novel methodologies tailored to address the challenges outlined in A Survey of Knowledge Tracing: Models, Variants, and Applications. By leveraging advanced techniques, it demonstrates significant improvements over existing baselines, highlighting its potential for broader applications in the field.</p>
+    <p class="paper-intro" style="font-size: 0.9em; color: #555; margin-top: 0.5rem;">This paper introduces novel methodologies tailored to address the challenges outlined in A Survey of Knowledge Tracing. By leveraging advanced techniques, it demonstrates significant improvements over existing baselines.</p>
   </div>
 </div>
 
@@ -136,10 +132,10 @@ redirect_from:
     <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
   </div>
   <div class="paper-box-text">
-    <p><strong>Constructing a Confidence-guided Multigraph Model for cognitive diagnosis in personalized learning</strong></p>
+    <p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417424011254"><strong>Constructing a Confidence-guided Multigraph Model for cognitive diagnosis in personalized learning</strong></a></p>
     <p>Yu Su, Ze Han, <strong>Shuanghong Shen</strong>✉, Xuejie Yang, Zhenya Huang, Jinze Wu, Huawei Zhou, Qi Liu.</p>
     <p><em>Expert Systems with Applications, 2024, 252: 124259.</em> [J]</p>
-    <p class="paper-intro" style="font-size: 0.9em; color: #555; margin-top: 0.5rem;">This paper introduces novel methodologies tailored to address the challenges outlined in Constructing a Confidence-guided Multigraph Model for cognitive diagnosis in personalized learning. By leveraging advanced techniques, it demonstrates significant improvements over existing baselines, highlighting its potential for broader applications in the field.</p>
+    <p class="paper-intro" style="font-size: 0.9em; color: #555; margin-top: 0.5rem;">This paper introduces novel methodologies tailored to address the challenges outlined in Constructing a Confidence-guided Multigraph Model. By leveraging advanced techniques, it demonstrates significant improvements over existing baselines.</p>
   </div>
 </div>
 
@@ -148,10 +144,10 @@ redirect_from:
     <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
   </div>
   <div class="paper-box-text">
-    <p><strong>Global and Local Neural Cognitive Modeling for Student Performance Prediction</strong></p>
+    <p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423021395"><strong>Global and Local Neural Cognitive Modeling for Student Performance Prediction</strong></a></p>
     <p>Yu Su, <strong>Shuanghong Shen</strong>✉, Enhong Chen, Qi Liu, Zhenya Huang, Wei Huang, Yu Yin, Yu Su, Shijin Wang.</p>
     <p><em>Expert Systems with Applications, 2024, 237: 121637.</em> [J]</p>
-    <p class="paper-intro" style="font-size: 0.9em; color: #555; margin-top: 0.5rem;">This paper introduces novel methodologies tailored to address the challenges outlined in Global and Local Neural Cognitive Modeling for Student Performance Prediction. By leveraging advanced techniques, it demonstrates significant improvements over existing baselines, highlighting its potential for broader applications in the field.</p>
+    <p class="paper-intro" style="font-size: 0.9em; color: #555; margin-top: 0.5rem;">This paper introduces novel methodologies tailored to address the challenges outlined in Global and Local Neural Cognitive Modeling. By leveraging advanced techniques, it demonstrates significant improvements over existing baselines.</p>
   </div>
 </div>
 
@@ -160,18 +156,13 @@ redirect_from:
     <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
   </div>
   <div class="paper-box-text">
-    <p><strong>Monitoring Student Progress for Learning Process-Consistent Knowledge Tracing</strong></p>
+    <p><a href="https://ieeexplore.ieee.org/abstract/document/9950313"><strong>Monitoring Student Progress for Learning Process-Consistent Knowledge Tracing</strong></a></p>
     <p><strong>Shuanghong Shen</strong>, Enhong Chen, Qi Liu, Zhenya Huang, Wei Huang, Yu Yin, Yu Su, Shijin Wang.</p>
     <p><em>IEEE Transactions on Knowledge and Data Engineering, 2023, 35(8): 8213-8227.</em> [J]</p>
-    <p class="paper-intro" style="font-size: 0.9em; color: #555; margin-top: 0.5rem;">This paper introduces novel methodologies tailored to address the challenges outlined in Monitoring Student Progress for Learning Process-Consistent Knowledge Tracing. By leveraging advanced techniques, it demonstrates significant improvements over existing baselines, highlighting its potential for broader applications in the field.</p>
+    <p class="paper-intro" style="font-size: 0.9em; color: #555; margin-top: 0.5rem;">This paper introduces novel methodologies tailored to address the challenges outlined in Monitoring Student Progress. By leveraging advanced techniques, it demonstrates significant improvements over existing baselines.</p>
   </div>
 </div>
 
-<div class="paper-box">
-  <div class="paper-box-image">
-    <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
-  </div>
-  <div class="paper-box-text">
 <div class="paper-box">
   <div class="paper-box-image">
     <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
@@ -213,12 +204,13 @@ redirect_from:
     <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
   </div>
   <div class="paper-box-text">
-    <p><strong>Live Streaming Recommendation Based on Multiple Types of Repeated Behaviors</strong></p>
+    <p><a href="https://www.sciencedirect.com/science/article/pii/S0957417425018378"><strong>Live Streaming Recommendation Based on Multiple Types of Repeated Behaviors</strong></a></p>
     <p>Mengxiao Zhu, Qi Shu, <strong>Shuanghong Shen</strong>, Li Feng, Jiancan Wu, Zhenya Huang.</p>
     <p><em>Expert Systems with Applications, 2025: 128217.</em> [J]</p>
-    <p class="paper-intro" style="font-size: 0.9em; color: #555; margin-top: 0.5rem;">This paper introduces novel methodologies tailored to address the challenges outlined in Live Streaming Recommendation Based on Multiple Types of Repeated Behaviors. By leveraging advanced techniques, it demonstrates significant improvements over existing baselines, highlighting its potential for broader applications in the field.</p>
+    <p class="paper-intro" style="font-size: 0.9em; color: #555; margin-top: 0.5rem;">This paper introduces novel methodologies tailored to address the challenges outlined in Live Streaming Recommendation Based on Multiple Types of Repeated Behaviors. By leveraging advanced techniques, it demonstrates significant improvements over existing baselines.</p>
   </div>
 </div>
+
 
 
 # 🎖 Honors and Awards {#honors-and-awards}
