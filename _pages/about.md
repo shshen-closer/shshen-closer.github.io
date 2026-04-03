@@ -24,6 +24,7 @@ redirect_from:
 
 
 <div class="content-grid" markdown="1">
+
 <div class="main-column" markdown="1">
 
 <h2 id="selected-publications">📝 Selected Publications</h2>
@@ -263,6 +264,7 @@ redirect_from:
 </div>
 
 <div class="side-column" markdown="1">
+
 <div class="news-box" markdown="1">
 
 # 🔥 News {#news}
@@ -276,5 +278,7 @@ redirect_from:
 - *2024.11*: 🎉🎉 One paper accepted by KDD 2025.
 
 </div>
+
 </div>
+
 </div>
