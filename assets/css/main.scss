@@ -46,8 +46,8 @@
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
-    background: rgba(255, 255, 255, 0.4);
-    border: 1px solid rgba(255, 255, 255, 0.6);
+    background: #ffffff;
+    border: 1px solid rgba(0,0,0,0.03);
     border-radius: $border-radius;
     padding: 1.5em;
     margin-bottom: 1.5em;
@@ -57,7 +57,6 @@
     &:hover {
         transform: translateY(-5px);
         box-shadow: $box-shadow-hover;
-        background: rgba(255, 255, 255, 0.8);
     }
     
     .paper-box-image{
@@ -67,7 +66,7 @@
         order: 2;
         img {
             max-width: 400px;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+            box-shadow: 0 4px 15px rgba(0,0,0,0.06);
             border-radius: 8px;
             object-fit: cover;
             transition: $global-transition;
