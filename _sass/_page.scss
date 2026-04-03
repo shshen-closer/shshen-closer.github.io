@@ -25,6 +25,14 @@
 
   .page__inner-wrap {
     @include full();
+    background: rgba(255, 255, 255, 0.7);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border-radius: $border-radius;
+    box-shadow: $box-shadow;
+    padding: 2.5rem;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    margin-bottom: 3em;
 
     .page__content,
     .page__meta,
