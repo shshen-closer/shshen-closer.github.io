@@ -94,6 +94,35 @@ redirect_from:
     <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
   </div>
   <div class="paper-box-text">
+<div class="paper-box">
+  <div class="paper-box-image">
+    <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
+  </div>
+  <div class="paper-box-text">
+    <p><a href="https://ojs.aaai.org/index.php/AAAI/article/view/34611"><strong>ScholarGEC: Enhancing Controllability of Large Language Model for Chinese Academic Grammatical Error Correction</strong></a></p>
+    <p>Zixiao Kong, Xianquan Wang, <strong>Shuanghong Shen</strong>✉, Keyu Zhu, Huibo Xu, Yu Su.</p>
+    <p><em>Proceedings of the AAAI Conference on Artificial Intelligence. 2025, 39(23): 24339-24347.</em> [C]</p>
+    <p class="paper-intro" style="font-size: 0.9em; color: #555; margin-top: 0.5rem;">This paper introduces novel methodologies tailored to address the challenges outlined in ScholarGEC. By leveraging advanced techniques, it demonstrates significant improvements over existing baselines.</p>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
+  </div>
+  <div class="paper-box-text">
+    <p><a href="https://dl.acm.org/doi/abs/10.1145/3690624.3709275"><strong>Mitigating Redundancy in Deep Recommender Systems: A Field Importance Distribution Perspective</strong></a></p>
+    <p>Xianquan Wang, Likang Wu, Zhi Li, Haitao Yuan, <strong>Shuanghong Shen</strong>✉, Huibo Xu, Yu Su, Chenyi Lei.</p>
+    <p><em>Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 1. 2025: 1515-1526.</em> [C]</p>
+    <p class="paper-intro" style="font-size: 0.9em; color: #555; margin-top: 0.5rem;">This paper investigates field importance distributions to effectively mitigate redundancy issues in deep recommender systems, achieving promising results on large-scale datasets.</p>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
+  </div>
+  <div class="paper-box-text">
     <p><strong>A Survey of Knowledge Tracing: Models, Variants, and Applications</strong></p>
     <p><strong>Shuanghong Shen</strong>, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, Enhong Chen.</p>
     <p><em>IEEE Transactions on Learning Technologies, 2024, 17: 1858-1879.</em> [J]</p>
@@ -134,6 +163,47 @@ redirect_from:
     <p><strong>Shuanghong Shen</strong>, Enhong Chen, Qi Liu, Zhenya Huang, Wei Huang, Yu Yin, Yu Su, Shijin Wang.</p>
     <p><em>IEEE Transactions on Knowledge and Data Engineering, 2023, 35(8): 8213-8227.</em> [J]</p>
     <p class="paper-intro" style="font-size: 0.9em; color: #555; margin-top: 0.5rem;">This paper introduces novel methodologies tailored to address the challenges outlined in Monitoring Student Progress for Learning Process-Consistent Knowledge Tracing. By leveraging advanced techniques, it demonstrates significant improvements over existing baselines, highlighting its potential for broader applications in the field.</p>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
+  </div>
+  <div class="paper-box-text">
+<div class="paper-box">
+  <div class="paper-box-image">
+    <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
+  </div>
+  <div class="paper-box-text">
+    <p><a href="https://dl.acm.org/doi/abs/10.1145/3477495.3531939"><strong>Assessing Student’s Dynamic Knowledge State by Exploring the Question Difficulty Effect</strong></a></p>
+    <p><strong>Shuanghong Shen</strong>, Zhenya Huang, Qi Liu, Yu Su, Shijin Wang, Enhong Chen.</p>
+    <p><em>Proceedings of the 45th international ACM SIGIR conference on research and development in information retrieval. 2022: 427-437.</em> [C]</p>
+    <p class="paper-intro" style="font-size: 0.9em; color: #555; margin-top: 0.5rem;">This paper assesses student dynamic knowledge states by deeply exploring and modeling the unique effects of question difficulty on the learning process.</p>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
+  </div>
+  <div class="paper-box-text">
+    <p><a href="https://dl.acm.org/doi/abs/10.1145/3447548.3467237"><strong>Learning Process-consistent Knowledge Tracing</strong></a></p>
+    <p><strong>Shuanghong Shen</strong>, Qi Liu, Enhong Chen, Zhenya Huang, Wei Huang, Yu Yin, Yu Su, Shijin Wang.</p>
+    <p><em>Proceedings of the 27th ACM SIGKDD conference on knowledge discovery & data mining. 2021: 1452-1460.</em> [C]</p>
+    <p class="paper-intro" style="font-size: 0.9em; color: #555; margin-top: 0.5rem;">A classic foundational work proposing a novel knowledge tracing paradigm that explicitly models consistency within a student’s learning process.</p>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
+  </div>
+  <div class="paper-box-text">
+    <p><a href="https://dl.acm.org/doi/abs/10.1145/3397271.3401288"><strong>Convolutional Knowledge Tracing: Modeling Individualization in Student Learning Process</strong></a></p>
+    <p><strong>Shuanghong Shen</strong>, Qi Liu, Enhong Chen, Han Wu, Zhenya Huang, Weihao Zhao, Yu Su, Haiping Ma, Shijin Wang.</p>
+    <p><em>Proceedings of the 43rd international ACM SIGIR conference on research and development in information retrieval. 2020: 1857-1860.</em> [C]</p>
+    <p class="paper-intro" style="font-size: 0.9em; color: #555; margin-top: 0.5rem;">An early exploration into using convolutional operations to capture individualization characteristics in long-term student learning sequences.</p>
   </div>
 </div>
 
