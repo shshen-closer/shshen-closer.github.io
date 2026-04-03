@@ -22,7 +22,7 @@ redirect_from:
 * My research interests include data mining, knowledge discovery, user modeling, and intelligent education. **If you have any questions regarding my research, or may be interested in potential collaboration, or would like to discuss any other matters, please do not hesitate to contact me. I look forward to the opportunity to cooperate with you.**
 
 
-# 🔥 News
+# 🔥 News {#news}
 - *2026.01*: &nbsp;🎉🎉 One paper accepted by ACM Transactions on Information Systems.
 - *2025.12*: &nbsp;🎉🎉 One paper accepted by IEEE Transactions on Multimedia.
 - *2025.08*: &nbsp;🎉🎉 One paper accepted by Information Processing & Management.
@@ -31,7 +31,7 @@ redirect_from:
 - *2024.12*: &nbsp;🎉🎉 One paper accepted by AAAI 2025.
 - *2024.11*: &nbsp;🎉🎉 One paper accepted by KDD 2025. 
 
-# 📝 Selected Publications 
+# 📝 Selected Publications {#selected-publications}
 
 ( ✉ Corresponding Author, † Equal Contribution )
 - **Shuanghong Shen**, Qi Mo, Zhenya Huang, Yu Su, Linbo Zhu, Junyu, Qi Liu. [Towards Fine-grained Knowledge Tracing by Hierarchical Fusion of Multiple Question Attributes]()[J]. ACM Transactions on Information Systems, 2026, accepted.
@@ -51,7 +51,7 @@ redirect_from:
 - Mengxiao Zhu, Qi Shu, **Shuanghong Shen**, Li Feng, Jiancan Wu, Zhenya Huang. [Live Streaming Recommendation Based on Multiple Types of Repeated Behaviors](https://www.sciencedirect.com/science/article/pii/S0957417425018378)[J]. Expert Systems with Applications, 2025: 128217.
 
 
-# 🎖 Honors and Awards
+# 🎖 Honors and Awards {#honors-and-awards}
 - *2023*: The Special Prize of President Scholarship of Postgraduate Students. 
 - *2023*: China National Scholarship.
 - *2023*: Best Applied Paper of CCF BigData2023.
@@ -63,11 +63,11 @@ redirect_from:
 - *2020*: Top 1 in Task 2 of the [NeurIPS 2020 Education Challenge](https://eedi.com/projects/neurips-education-challenge).
 
 
-# 📖 Educations
+# 📖 Educations {#educations}
 - *2018.09 - 2024.06*, School of Artificial Intelligence and Data Science, University of Science and Technology of China. 
 - *2014.09 - 2018.06*, School of Electronic Information, Wuhan University. 
 
-# 💬 Services
+# 💬 Services {#services}
 - *Journal Reviewer*
 
     * IEEE Transactions on Knowledge and Data Engineering
@@ -88,6 +88,6 @@ redirect_from:
     * IJCAI
     * TheWebConf
 
-# 💻 Internships
+# 💻 Internships {#internships}
 - *2018.03 - 2018.08*, [IflyTek](https://www.iflytek.com/en/), Hefei, China.
 - *2017.07 - 2017.09*, [Tsmc](https://www.tsmc.com/schinese), Shanghai, China.
