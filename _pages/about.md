@@ -23,8 +23,8 @@ redirect_from:
 
 
 
-<div class="content-grid">
-<div class="main-column">
+<div class="content-grid" markdown="1">
+<div class="main-column" markdown="1">
 
 <h2 id="selected-publications">📝 Selected Publications</h2>
 <p><em>( ✉ Corresponding Author, † Equal Contribution )</em></p>
@@ -197,13 +197,13 @@ redirect_from:
 
 <h2 id="news">🔥 News</h2>
 <ul>
-  <li>*2026.01*: 🎉🎉 One paper accepted by ACM Transactions on Information Systems.</li>
-  <li>*2025.12*: 🎉🎉 One paper accepted by IEEE Transactions on Multimedia.</li>
-  <li>*2025.08*: 🎉🎉 One paper accepted by Information Processing & Management.</li>
-  <li>*2025.07*: 🎉🎉 One paper accepted by Neural Networks.</li>
-  <li>*2025.04*: 🎉🎉 One paper accepted by Knowledge-Based Systems.</li>
-  <li>*2024.12*: 🎉🎉 One paper accepted by AAAI 2025.</li>
-  <li>*2024.11*: 🎉🎉 One paper accepted by KDD 2025. </li>
+  <li><em>2026.01</em>: 🎉🎉 One paper accepted by ACM Transactions on Information Systems.</li>
+  <li><em>2025.12</em>: 🎉🎉 One paper accepted by IEEE Transactions on Multimedia.</li>
+  <li><em>2025.08</em>: 🎉🎉 One paper accepted by Information Processing & Management.</li>
+  <li><em>2025.07</em>: 🎉🎉 One paper accepted by Neural Networks.</li>
+  <li><em>2025.04</em>: 🎉🎉 One paper accepted by Knowledge-Based Systems.</li>
+  <li><em>2024.12</em>: 🎉🎉 One paper accepted by AAAI 2025.</li>
+  <li><em>2024.11</em>: 🎉🎉 One paper accepted by KDD 2025. </li>
 </ul>
 </div>
 </div>
