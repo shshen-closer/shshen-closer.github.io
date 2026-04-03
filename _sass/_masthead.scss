@@ -22,7 +22,7 @@
     font-family: $header-font-family;
 
     @include breakpoint($large) {
-      max-width: 900px;
+      max-width: 1250px;
     }
 
     nav {

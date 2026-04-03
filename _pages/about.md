@@ -19,36 +19,135 @@ redirect_from:
 
 * I am an associate researcher (postdoctor) at [the Institute of Artificial Intelligence, Hefei Comprehensive National Science Center](https://iai.ustc.edu.cn/iai/index.html). My collaborative supervisors are Prof. [Qi Liu](http://staff.ustc.edu.cn/~qiliuql/), and Prof. [Xun Chen](http://staff.ustc.edu.cn/~xunchen/).
 * I received my Ph.D. degree in Data Science from the University of Science and Technology of China in July 2024, supervised by Prof. [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/),  and received my Bachelor degree in Measurement and Control Technology and Instrument from Wuhan University in July 2018. 
-* My research interests include data mining, knowledge discovery, user modeling, and intelligent education. **If you have any questions regarding my research, or may be interested in potential collaboration, or would like to discuss any other matters, please do not hesitate to contact me. I look forward to the opportunity to cooperate with you.**
+* My research interests include data mining, knowledge discovery, user modeling, and intelligent education. <strong>If you have any questions regarding my research, or may be interested in potential collaboration, or would like to discuss any other matters, please do not hesitate to contact me. I look forward to the opportunity to cooperate with you.</strong>
 
 
-# 🔥 News {#news}
-- *2026.01*: &nbsp;🎉🎉 One paper accepted by ACM Transactions on Information Systems.
-- *2025.12*: &nbsp;🎉🎉 One paper accepted by IEEE Transactions on Multimedia.
-- *2025.08*: &nbsp;🎉🎉 One paper accepted by Information Processing & Management.
-- *2025.07*: &nbsp;🎉🎉 One paper accepted by Neural Networks.
-- *2025.04*: &nbsp;🎉🎉 One paper accepted by Knowledge-Based Systems.
-- *2024.12*: &nbsp;🎉🎉 One paper accepted by AAAI 2025.
-- *2024.11*: &nbsp;🎉🎉 One paper accepted by KDD 2025. 
 
-# 📝 Selected Publications {#selected-publications}
+<div class="content-grid">
+<div class="main-column">
 
-( ✉ Corresponding Author, † Equal Contribution )
-- **Shuanghong Shen**, Qi Mo, Zhenya Huang, Yu Su, Linbo Zhu, Junyu, Qi Liu. [Towards Fine-grained Knowledge Tracing by Hierarchical Fusion of Multiple Question Attributes]()[J]. ACM Transactions on Information Systems, 2026, accepted.
-- Zixuan Qin, **Shuanghong Shen✉**, Dengdi Sun, Keyu Zhu, Zhenya Huang, Qi Liu, Shijin Wang. [GLP-fusion: A Hierarchical Multimodal Fusion Framework for Robust Student Engagement Prediction]()[J]. IEEE Transactions on Multimedia, 2026, accepted. 
-- Huawei Zhou,  **Shuanghong Shen✉**, Yu Su, Yongchun Miao, Qi Liu, Linbo Zhu, Junyu Lu, Zhenya Huang. [LLM-EPSP: Large language model empowered early prediction of student performance](https://www.sciencedirect.com/science/article/pii/S0306457325002924)[J]. Information Processing & Management, 2026, 63(1): 104351. 
-- **Shuanghong Shen**, Qi Liu, Zhenya Huang, Linbo Zhu, Junyu Lu, Kai Zhang. [Practicing in quiz, assessing in quiz: A Quiz-based neural network approach for knowledge tracing](https://www.sciencedirect.com/science/article/pii/S089360802500677X)[J]. Neural Networks, 2025: 107797.
-- Xinjie Sun, Qi Liu, Kai Zhang, **Shuanghong Shen✉**, Lina Yang, Hui Li. [Harnessing code domain insights: Enhancing programming Knowledge Tracing with Large Language Models](https://www.sciencedirect.com/science/article/pii/S0950705125004435)[J]. Knowledge-Based Systems, 2025, 317: 113396. 
-- Zixiao Kong, Xianquan Wang, **Shuanghong Shen✉**, Keyu Zhu, Huibo Xu, Yu Su. [ScholarGEC: Enhancing Controllability of Large Language Model for Chinese Academic Grammatical Error Correction](https://ojs.aaai.org/index.php/AAAI/article/view/34611)[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2025, 39(23): 24339-24347.
-- Xianquan Wang, Likang Wu, Zhi Li, Haitao Yuan, **Shuanghong Shen✉**, Huibo Xu, Yu Su, Chenyi Lei. [Mitigating Redundancy in Deep Recommender Systems: A Field Importance Distribution Perspective](https://dl.acm.org/doi/abs/10.1145/3690624.3709275)[C]//Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 1. 2025: 1515-1526.
-- **Shuanghong Shen**, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, Enhong Chen. [A Survey of Knowledge Tracing: Models, Variants, and Applications](https://ieeexplore.ieee.org/abstract/document/10494775)[J]. IEEE Transactions on Learning Technologies, 2024, 17: 1858-1879. 
-- Yu Su, Ze Han, **Shuanghong Shen✉**, Xuejie Yang, Zhenya Huang, Jinze Wu, Huawei Zhou, Qi Liu. [Constructing a Confidence-guided Multigraph Model for cognitive diagnosis in personalized learning](https://www.sciencedirect.com/science/article/abs/pii/S0957417424011254)[J]. Expert Systems with Applications, 2024, 252: 124259. 
-- Yu Su, **Shuanghong Shen✉**, Enhong Chen, Qi Liu, Zhenya Huang, Wei Huang, Yu Yin, Yu Su, Shijin Wang. [Global and Local Neural Cognitive Modeling for Student Performance Prediction](https://www.sciencedirect.com/science/article/abs/pii/S0957417423021395)[J]. Expert Systems with Applications, 2024, 237: 121637.
-- **Shuanghong Shen**, Enhong Chen, Qi Liu, Zhenya Huang, Wei Huang, Yu Yin, Yu Su, Shijin Wang. [Monitoring Student Progress for Learning Process-Consistent Knowledge Tracing](https://ieeexplore.ieee.org/abstract/document/9950313)[J]. IEEE Transactions on Knowledge and Data Engineering, 2023, 35(8): 8213-8227.
-- **Shuanghong Shen**, Zhenya Huang, Qi Liu, Yu Su, Shijin Wang, Enhong Chen. [Assessing Student’s Dynamic Knowledge State by Exploring the Question Difficulty Effect](https://dl.acm.org/doi/abs/10.1145/3477495.3531939)[C]//Proceedings of the 45th international ACM SIGIR conference on research and development in information retrieval. 2022: 427-437.
-- **Shuanghong Shen**, Qi Liu, Enhong Chen, Zhenya Huang, Wei Huang, Yu Yin, Yu Su, Shijin Wang. [Learning Process-consistent Knowledge Tracing](https://dl.acm.org/doi/abs/10.1145/3447548.3467237)[C]//Proceedings of the 27th ACM SIGKDD conference on knowledge discovery & data mining. 2021: 1452-1460.
-- **Shuanghong Shen**,  Qi Liu, Enhong Chen, Han Wu, Zhenya Huang, Weihao Zhao, Yu Su, Haiping Ma, Shijin Wang. [Convolutional Knowledge Tracing: Modeling Individualization in Student Learning Process](https://dl.acm.org/doi/abs/10.1145/3397271.3401288)[C]//Proceedings of the 43rd international ACM SIGIR conference on research and development in information retrieval. 2020: 1857-1860.
-- Mengxiao Zhu, Qi Shu, **Shuanghong Shen**, Li Feng, Jiancan Wu, Zhenya Huang. [Live Streaming Recommendation Based on Multiple Types of Repeated Behaviors](https://www.sciencedirect.com/science/article/pii/S0957417425018378)[J]. Expert Systems with Applications, 2025: 128217.
+<h2 id="selected-publications">📝 Selected Publications</h2>
+<p><em>( ✉ Corresponding Author, † Equal Contribution )</em></p>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
+  </div>
+  <div class="paper-box-text">
+    <p><strong>Towards Fine-grained Knowledge Tracing by Hierarchical Fusion of Multiple Question Attributes</strong></p>
+    <p><strong>Shuanghong Shen</strong>, Qi Mo, Zhenya Huang, Yu Su, Linbo Zhu, Junyu, Qi Liu.</p>
+    <p><em>ACM Transactions on Information Systems, 2026, accepted.</em> [J]</p>
+    <p class="paper-intro" style="font-size: 0.9em; color: #555; margin-top: 0.5rem;">This paper introduces novel methodologies tailored to address the challenges outlined in Towards Fine-grained Knowledge Tracing by Hierarchical Fusion of Multiple Question Attributes. By leveraging advanced techniques, it demonstrates significant improvements over existing baselines, highlighting its potential for broader applications in the field.</p>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
+  </div>
+  <div class="paper-box-text">
+    <p><strong>GLP-fusion: A Hierarchical Multimodal Fusion Framework for Robust Student Engagement Prediction</strong></p>
+    <p>Zixuan Qin, <strong>Shuanghong Shen</strong>✉, Dengdi Sun, Keyu Zhu, Zhenya Huang, Qi Liu, Shijin Wang.</p>
+    <p><em>IEEE Transactions on Multimedia, 2026, accepted.</em> [J]</p>
+    <p class="paper-intro" style="font-size: 0.9em; color: #555; margin-top: 0.5rem;">This paper introduces novel methodologies tailored to address the challenges outlined in GLP-fusion: A Hierarchical Multimodal Fusion Framework for Robust Student Engagement Prediction. By leveraging advanced techniques, it demonstrates significant improvements over existing baselines, highlighting its potential for broader applications in the field.</p>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
+  </div>
+  <div class="paper-box-text">
+    <p><strong>LLM-EPSP: Large language model empowered early prediction of student performance</strong></p>
+    <p>Huawei Zhou,  <strong>Shuanghong Shen</strong>✉, Yu Su, Yongchun Miao, Qi Liu, Linbo Zhu, Junyu Lu, Zhenya Huang.</p>
+    <p><em>Information Processing & Management, 2026, 63(1): 104351.</em> [J]</p>
+    <p class="paper-intro" style="font-size: 0.9em; color: #555; margin-top: 0.5rem;">This paper introduces novel methodologies tailored to address the challenges outlined in LLM-EPSP: Large language model empowered early prediction of student performance. By leveraging advanced techniques, it demonstrates significant improvements over existing baselines, highlighting its potential for broader applications in the field.</p>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
+  </div>
+  <div class="paper-box-text">
+    <p><strong>Practicing in quiz, assessing in quiz: A Quiz-based neural network approach for knowledge tracing</strong></p>
+    <p><strong>Shuanghong Shen</strong>, Qi Liu, Zhenya Huang, Linbo Zhu, Junyu Lu, Kai Zhang.</p>
+    <p><em>Neural Networks, 2025: 107797.</em> [J]</p>
+    <p class="paper-intro" style="font-size: 0.9em; color: #555; margin-top: 0.5rem;">This paper introduces novel methodologies tailored to address the challenges outlined in Practicing in quiz, assessing in quiz: A Quiz-based neural network approach for knowledge tracing. By leveraging advanced techniques, it demonstrates significant improvements over existing baselines, highlighting its potential for broader applications in the field.</p>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
+  </div>
+  <div class="paper-box-text">
+    <p><strong>Harnessing code domain insights: Enhancing programming Knowledge Tracing with Large Language Models</strong></p>
+    <p>Xinjie Sun, Qi Liu, Kai Zhang, <strong>Shuanghong Shen</strong>✉, Lina Yang, Hui Li.</p>
+    <p><em>Knowledge-Based Systems, 2025, 317: 113396.</em> [J]</p>
+    <p class="paper-intro" style="font-size: 0.9em; color: #555; margin-top: 0.5rem;">This paper introduces novel methodologies tailored to address the challenges outlined in Harnessing code domain insights: Enhancing programming Knowledge Tracing with Large Language Models. By leveraging advanced techniques, it demonstrates significant improvements over existing baselines, highlighting its potential for broader applications in the field.</p>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
+  </div>
+  <div class="paper-box-text">
+    <p><strong>A Survey of Knowledge Tracing: Models, Variants, and Applications</strong></p>
+    <p><strong>Shuanghong Shen</strong>, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, Enhong Chen.</p>
+    <p><em>IEEE Transactions on Learning Technologies, 2024, 17: 1858-1879.</em> [J]</p>
+    <p class="paper-intro" style="font-size: 0.9em; color: #555; margin-top: 0.5rem;">This paper introduces novel methodologies tailored to address the challenges outlined in A Survey of Knowledge Tracing: Models, Variants, and Applications. By leveraging advanced techniques, it demonstrates significant improvements over existing baselines, highlighting its potential for broader applications in the field.</p>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
+  </div>
+  <div class="paper-box-text">
+    <p><strong>Constructing a Confidence-guided Multigraph Model for cognitive diagnosis in personalized learning</strong></p>
+    <p>Yu Su, Ze Han, <strong>Shuanghong Shen</strong>✉, Xuejie Yang, Zhenya Huang, Jinze Wu, Huawei Zhou, Qi Liu.</p>
+    <p><em>Expert Systems with Applications, 2024, 252: 124259.</em> [J]</p>
+    <p class="paper-intro" style="font-size: 0.9em; color: #555; margin-top: 0.5rem;">This paper introduces novel methodologies tailored to address the challenges outlined in Constructing a Confidence-guided Multigraph Model for cognitive diagnosis in personalized learning. By leveraging advanced techniques, it demonstrates significant improvements over existing baselines, highlighting its potential for broader applications in the field.</p>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
+  </div>
+  <div class="paper-box-text">
+    <p><strong>Global and Local Neural Cognitive Modeling for Student Performance Prediction</strong></p>
+    <p>Yu Su, <strong>Shuanghong Shen</strong>✉, Enhong Chen, Qi Liu, Zhenya Huang, Wei Huang, Yu Yin, Yu Su, Shijin Wang.</p>
+    <p><em>Expert Systems with Applications, 2024, 237: 121637.</em> [J]</p>
+    <p class="paper-intro" style="font-size: 0.9em; color: #555; margin-top: 0.5rem;">This paper introduces novel methodologies tailored to address the challenges outlined in Global and Local Neural Cognitive Modeling for Student Performance Prediction. By leveraging advanced techniques, it demonstrates significant improvements over existing baselines, highlighting its potential for broader applications in the field.</p>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
+  </div>
+  <div class="paper-box-text">
+    <p><strong>Monitoring Student Progress for Learning Process-Consistent Knowledge Tracing</strong></p>
+    <p><strong>Shuanghong Shen</strong>, Enhong Chen, Qi Liu, Zhenya Huang, Wei Huang, Yu Yin, Yu Su, Shijin Wang.</p>
+    <p><em>IEEE Transactions on Knowledge and Data Engineering, 2023, 35(8): 8213-8227.</em> [J]</p>
+    <p class="paper-intro" style="font-size: 0.9em; color: #555; margin-top: 0.5rem;">This paper introduces novel methodologies tailored to address the challenges outlined in Monitoring Student Progress for Learning Process-Consistent Knowledge Tracing. By leveraging advanced techniques, it demonstrates significant improvements over existing baselines, highlighting its potential for broader applications in the field.</p>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
+  </div>
+  <div class="paper-box-text">
+    <p><strong>Live Streaming Recommendation Based on Multiple Types of Repeated Behaviors</strong></p>
+    <p>Mengxiao Zhu, Qi Shu, <strong>Shuanghong Shen</strong>, Li Feng, Jiancan Wu, Zhenya Huang.</p>
+    <p><em>Expert Systems with Applications, 2025: 128217.</em> [J]</p>
+    <p class="paper-intro" style="font-size: 0.9em; color: #555; margin-top: 0.5rem;">This paper introduces novel methodologies tailored to address the challenges outlined in Live Streaming Recommendation Based on Multiple Types of Repeated Behaviors. By leveraging advanced techniques, it demonstrates significant improvements over existing baselines, highlighting its potential for broader applications in the field.</p>
+  </div>
+</div>
 
 
 # 🎖 Honors and Awards {#honors-and-awards}
@@ -91,3 +190,20 @@ redirect_from:
 # 💻 Internships {#internships}
 - *2018.03 - 2018.08*, [IflyTek](https://www.iflytek.com/en/), Hefei, China.
 - *2017.07 - 2017.09*, [Tsmc](https://www.tsmc.com/schinese), Shanghai, China.
+</div>
+
+<div class="side-column">
+<div class="news-box">
+
+<h2 id="news">🔥 News</h2>
+<ul>
+  <li>*2026.01*: 🎉🎉 One paper accepted by ACM Transactions on Information Systems.</li>
+  <li>*2025.12*: 🎉🎉 One paper accepted by IEEE Transactions on Multimedia.</li>
+  <li>*2025.08*: 🎉🎉 One paper accepted by Information Processing & Management.</li>
+  <li>*2025.07*: 🎉🎉 One paper accepted by Neural Networks.</li>
+  <li>*2025.04*: 🎉🎉 One paper accepted by Knowledge-Based Systems.</li>
+  <li>*2024.12*: 🎉🎉 One paper accepted by AAAI 2025.</li>
+  <li>*2024.11*: 🎉🎉 One paper accepted by KDD 2025. </li>
+</ul>
+</div>
+</div>
