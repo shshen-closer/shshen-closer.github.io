@@ -199,17 +199,6 @@ redirect_from:
   </div>
 </div>
 
-<div class="paper-box">
-  <div class="paper-box-image">
-    <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
-  </div>
-  <div class="paper-box-text">
-    <p><a href="https://www.sciencedirect.com/science/article/pii/S0957417425018378"><strong>Live Streaming Recommendation Based on Multiple Types of Repeated Behaviors</strong></a></p>
-    <p>Mengxiao Zhu, Qi Shu, <strong>Shuanghong Shen</strong>, Li Feng, Jiancan Wu, Zhenya Huang.</p>
-    <p><em>Expert Systems with Applications, 2025: 128217.</em> [J]</p>
-    <p class="paper-intro" style="font-size: 0.9em; color: #555; margin-top: 0.5rem;">Repeated behaviors (re-watching, re-entering a live room) are strong but heterogeneous signals in live streaming platforms. This paper categorizes and models multiple types of repeated behaviors within a unified recommendation framework, capturing users' evolving interests more accurately and improving recommendation quality on real-world live streaming data.</p>
-  </div>
-</div>
 
 
 
@@ -261,6 +250,7 @@ redirect_from:
 
 # 🔥 News {#news}
 
+- *2026.04*: 🎉🎉 One paper accepted by SIGIR 2026.
 - *2026.01*: 🎉🎉 One paper accepted by ACM Transactions on Information Systems.
 - *2025.12*: 🎉🎉 One paper accepted by IEEE Transactions on Multimedia.
 - *2025.08*: 🎉🎉 One paper accepted by Information Processing & Management.
