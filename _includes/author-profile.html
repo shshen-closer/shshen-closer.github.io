@@ -26,27 +26,28 @@
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
       {% endif %}
-      {% if author.location or author.email or author.github or author.googlescholar or author.orcid %}
+      {% if author.location %}
         <li style="list-style:none; padding:0;">
-          <div style="display:flex; flex-wrap:wrap; align-items:center; gap:0; font-size:0.9em;">
-            {% if author.location %}
-              <span><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</span>
-            {% endif %}
+          <span style="font-size:0.9em;"><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</span>
+        </li>
+      {% endif %}
+      {% if author.email or author.github or author.googlescholar or author.orcid %}
+        <li style="list-style:none; padding:0;">
+          <div style="display:flex; align-items:center; gap:0; font-size:1.1em;">
             {% if author.email %}
-              {% if author.location %}<span style="margin:0 5px; color:#aaa;">|</span>{% endif %}
-              <a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
+              <a href="mailto:{{ author.email }}" title="Email"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
             {% endif %}
             {% if author.github %}
-              <span style="margin:0 5px; color:#aaa;">|</span>
-              <a href="{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
+              {% if author.email %}<span style="margin:0 5px; color:#aaa;">|</span>{% endif %}
+              <a href="{{ author.github }}" title="GitHub"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
             {% endif %}
             {% if author.googlescholar %}
               <span style="margin:0 5px; color:#aaa;">|</span>
-              <a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i></a>
+              <a href="{{ author.googlescholar }}" title="Google Scholar"><i class="fas fa-fw fa-graduation-cap"></i></a>
             {% endif %}
             {% if author.orcid %}
               <span style="margin:0 5px; color:#aaa;">|</span>
-              <a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i></a>
+              <a href="{{ author.orcid }}" title="ORCID"><i class="ai ai-orcid-square ai-fw"></i></a>
             {% endif %}
           </div>
         </li>
