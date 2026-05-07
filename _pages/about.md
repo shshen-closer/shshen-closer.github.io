@@ -22,9 +22,10 @@ redirect_from:
 * My research interests include data mining, knowledge discovery, user modeling, and intelligent education. <strong>If you have any questions regarding my research, or may be interested in potential collaboration, or would like to discuss any other matters, please do not hesitate to contact me. I look forward to the opportunity to cooperate with you.</strong>
 
 <div style="background-color: #e6f7ff; border-left: 4px solid #1890ff; padding: 15px; margin: 25px 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
-  <h3 style="margin-top: 0; color: #0050b3;">🌟 Featured Project (推荐项目)</h3>
-  <p style="margin-bottom: 8px;">
-    Welcome to experience my recently developed AI platform (欢迎体验我最近开发的AI项目).
+  <h3 style="margin-top: 0; color: #0050b3;">🌟 Featured Project (推荐项目): Mastery AI (驭智工坊)</h3>
+  <p style="margin-bottom: 12px; line-height: 1.6;">
+    <strong>Mastery AI</strong> is an adaptive intelligent learning platform that integrates personalized AI teaching assistants, interactive coding workshops, and dynamic knowledge tracing to provide a frictionless, data-driven learning experience.<br>
+    <span style="font-size: 0.95em; color: #444;">驭智工坊是一款自适应智能研习与实操平台，深度集成了个性化AI导学伴读、可交互的代码工坊及动态知识追踪模型，致力于为您提供无缝衔接的沉浸式学习体验。欢迎体验！</span>
   </p>
   <ul style="margin-bottom: 0;">
     <li><strong>🌐 访问地址 (Link):</strong> <a href="http://101.133.234.174" target="_blank" style="color: #1890ff; font-weight: bold;">http://101.133.234.174</a></li>
