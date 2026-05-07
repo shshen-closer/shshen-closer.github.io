@@ -260,6 +260,7 @@ redirect_from:
 
 # 🔥 News {#news}
 
+- *2026.05*: 🎉🎉 One paper "基于视觉语言模型的多模态学生参与度预测方法" accepted by Acta Automatica Sinica (自动化学报).
 - *2026.04*: 🎉🎉 One paper accepted by SIGIR 2026.
 - *2026.01*: 🎉🎉 One paper accepted by ACM Transactions on Information Systems.
 - *2025.12*: 🎉🎉 One paper accepted by IEEE Transactions on Multimedia.
