@@ -24,8 +24,8 @@ redirect_from:
 <div style="background-color: #e6f7ff; border-left: 4px solid #1890ff; padding: 15px; margin: 25px 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
   <h3 style="margin-top: 0; color: #0050b3;">🌟 Featured Project (推荐项目): Mastery AI (驭智工坊)</h3>
   <p style="margin-bottom: 12px; line-height: 1.6;">
-    <strong>Mastery AI</strong> is an intelligent learning and practice platform that integrates personalized AI Agents (搭档), extensible custom Skills (技能), and interactive coding workshops to provide a highly customizable and frictionless learning experience.<br>
-    <span style="font-size: 0.95em; color: #444;">驭智工坊是一款智能研习与实操平台，核心特色包括深度定制的个性化AI搭档、可灵活扩展的自定义技能包，以及全交互式的代码工坊，致力于为您提供无缝衔接的沉浸式学习与编程体验。欢迎体验！</span>
+    <strong>Mastery AI</strong> is an intelligent platform integrating personalized AI Agents (搭档), extensible custom Skills (技能), and interactive practice workshops. Our vision is to promote learning and using AI, making artificial intelligence accessible, and embracing every happiness with technology.<br>
+    <span style="font-size: 0.95em; color: #444;">驭智工坊是一款智能研习与实操平台，核心特色包括深度定制的个性化AI搭档、可灵活扩展的自定义技能包以及全交互式的工坊。<strong>我们的愿景是：促进学AI用AI，让人工智能触手可及，用科技拥抱每一份幸福。</strong>欢迎体验！</span>
   </p>
   <ul style="margin-bottom: 0;">
     <li><strong>🌐 访问地址 (Link):</strong> <a href="http://101.133.234.174" target="_blank" style="color: #1890ff; font-weight: bold;">http://101.133.234.174</a></li>
