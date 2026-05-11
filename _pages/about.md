@@ -43,7 +43,7 @@ redirect_from:
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
+    <img src="/images/papers/paper1.png" alt="Paper Overview">
   </div>
   <div class="paper-box-text">
     <p><a href=""><strong>Towards Fine-grained Knowledge Tracing by Hierarchical Fusion of Multiple Question Attributes</strong></a></p>
@@ -55,7 +55,7 @@ redirect_from:
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
+    <img src="/images/papers/paper2.png" alt="Paper Overview">
   </div>
   <div class="paper-box-text">
     <p><a href=""><strong>GLP-fusion: A Hierarchical Multimodal Fusion Framework for Robust Student Engagement Prediction</strong></a></p>
@@ -67,7 +67,7 @@ redirect_from:
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
+    <img src="/images/papers/paper3.png" alt="Paper Overview">
   </div>
   <div class="paper-box-text">
     <p><a href="https://www.sciencedirect.com/science/article/pii/S0306457325002924"><strong>LLM-EPSP: Large language model empowered early prediction of student performance</strong></a></p>
@@ -79,7 +79,7 @@ redirect_from:
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
+    <img src="/images/papers/paper4.png" alt="Paper Overview">
   </div>
   <div class="paper-box-text">
     <p><a href="https://www.sciencedirect.com/science/article/pii/S089360802500677X"><strong>Practicing in quiz, assessing in quiz: A Quiz-based neural network approach for knowledge tracing</strong></a></p>
@@ -91,7 +91,7 @@ redirect_from:
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
+    <img src="/images/papers/paper5.png" alt="Paper Overview">
   </div>
   <div class="paper-box-text">
     <p><a href="https://www.sciencedirect.com/science/article/pii/S0950705125004435"><strong>Harnessing code domain insights: Enhancing programming Knowledge Tracing with Large Language Models</strong></a></p>
@@ -103,7 +103,7 @@ redirect_from:
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
+    <img src="/images/papers/paper6.png" alt="Paper Overview">
   </div>
   <div class="paper-box-text">
     <p><a href="https://ojs.aaai.org/index.php/AAAI/article/view/34611"><strong>ScholarGEC: Enhancing Controllability of Large Language Model for Chinese Academic Grammatical Error Correction</strong></a></p>
@@ -115,7 +115,7 @@ redirect_from:
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
+    <img src="/images/papers/paper7.png" alt="Paper Overview">
   </div>
   <div class="paper-box-text">
     <p><a href="https://dl.acm.org/doi/abs/10.1145/3690624.3709275"><strong>Mitigating Redundancy in Deep Recommender Systems: A Field Importance Distribution Perspective</strong></a></p>
@@ -127,7 +127,7 @@ redirect_from:
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
+    <img src="/images/papers/paper8.png" alt="Paper Overview">
   </div>
   <div class="paper-box-text">
     <p><a href="https://ieeexplore.ieee.org/abstract/document/10494775"><strong>A Survey of Knowledge Tracing: Models, Variants, and Applications</strong></a></p>
@@ -139,7 +139,7 @@ redirect_from:
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
+    <img src="/images/papers/paper9.png" alt="Paper Overview">
   </div>
   <div class="paper-box-text">
     <p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417424011254"><strong>Constructing a Confidence-guided Multigraph Model for cognitive diagnosis in personalized learning</strong></a></p>
@@ -151,7 +151,7 @@ redirect_from:
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
+    <img src="/images/papers/paper10.png" alt="Paper Overview">
   </div>
   <div class="paper-box-text">
     <p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423021395"><strong>Global and Local Neural Cognitive Modeling for Student Performance Prediction</strong></a></p>
@@ -163,7 +163,7 @@ redirect_from:
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
+    <img src="/images/papers/paper11.png" alt="Paper Overview">
   </div>
   <div class="paper-box-text">
     <p><a href="https://ieeexplore.ieee.org/abstract/document/9950313"><strong>Monitoring Student Progress for Learning Process-Consistent Knowledge Tracing</strong></a></p>
@@ -175,7 +175,7 @@ redirect_from:
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
+    <img src="/images/papers/paper12.png" alt="Paper Overview">
   </div>
   <div class="paper-box-text">
     <p><a href="https://dl.acm.org/doi/abs/10.1145/3477495.3531939"><strong>Assessing Student’s Dynamic Knowledge State by Exploring the Question Difficulty Effect</strong></a></p>
@@ -187,7 +187,7 @@ redirect_from:
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
+    <img src="/images/papers/paper13.png" alt="Paper Overview">
   </div>
   <div class="paper-box-text">
     <p><a href="https://dl.acm.org/doi/abs/10.1145/3447548.3467237"><strong>Learning Process-consistent Knowledge Tracing</strong></a></p>
@@ -199,7 +199,7 @@ redirect_from:
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&auto=format&fit=crop" alt="Paper Overview">
+    <img src="/images/papers/paper14.png" alt="Paper Overview">
   </div>
   <div class="paper-box-text">
     <p><a href="https://dl.acm.org/doi/abs/10.1145/3397271.3401288"><strong>Convolutional Knowledge Tracing: Modeling Individualization in Student Learning Process</strong></a></p>
