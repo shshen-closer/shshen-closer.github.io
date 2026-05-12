@@ -31,6 +31,11 @@
           <span style="font-size:0.9em;"><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</span>
         </li>
       {% endif %}
+      {% if author.phone %}
+        <li style="list-style:none; padding:0;">
+          <span style="font-size:0.9em;"><i class="fas fa-fw fa-phone" aria-hidden="true"></i> {{ author.phone }}</span>
+        </li>
+      {% endif %}
       {% if author.email or author.github or author.googlescholar or author.orcid %}
         <li style="list-style:none; padding:0;">
           <div style="display:flex; align-items:center; gap:0; font-size:1.1em;">
