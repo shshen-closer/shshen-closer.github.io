@@ -5,6 +5,13 @@
   image: "/images/papers/paper15.png"
   intro: "Large language models are prone to generating plausible but incorrect information (hallucinations). This paper proposes a multi-agent collaboration framework where specialized agents work together to verify and refine each other's outputs, significantly improving response quality and reducing hallucination rates across diverse tasks while maintaining generation efficiency."
 
+- title: "基于视觉语言模型的多模态学生参与度预测方法"
+  authors: "<strong>Shuanghong Shen</strong>, Zixuan Qin, Yu Su, Shijin Wang, Zhenya Huang, Dengdi Sun✉."
+  venue: "<em>Acta Automatica Sinica (自动化学报), 2026.</em> [J]"
+  link: "https://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c260173"
+  image: "/images/papers/paper16.png"
+  intro: "To address the limitations of general vision-language models in student engagement prediction (SEP)—such as cross-domain semantic gaps and lack of sensitivity to subtle facial cues—this paper proposes VLM-SEP. By decoupling multimodal video streams into orthogonal facial and body-pose features and integrating educational psychology rules, VLM-SEP achieves highly accurate and interpretable student engagement prediction."
+
 - title: "Towards Fine-grained Knowledge Tracing by Hierarchical Fusion of Multiple Question Attributes"
   authors: "<strong>Shuanghong Shen</strong>, Qi Mo, Zhenya Huang, Yu Su, Linbo Zhu, Junyu, Qi Liu."
   venue: "<em>ACM Transactions on Information Systems, 2026, accepted.</em> [J]"
