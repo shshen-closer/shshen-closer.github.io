@@ -1,3 +1,10 @@
+- title: "Towards higher quality and fewer hallucinations: A multi-agent collaboration framework for LLMs"
+  authors: "<strong>Shuanghong Shen</strong>, Dengdi Sun, Zixuan Qin, Yu Su, Linbo Zhu, Junyu Lu, Zhenya Huang, Shijin Wang."
+  venue: "<em>Information Processing & Management, 2026.</em> [J]"
+  link: "https://www.sciencedirect.com/science/article/abs/pii/S0306457326003444"
+  image: "/images/papers/paper15.png"
+  intro: "Large language models are prone to generating plausible but incorrect information (hallucinations). This paper proposes a multi-agent collaboration framework where specialized agents work together to verify and refine each other's outputs, significantly improving response quality and reducing hallucination rates across diverse tasks while maintaining generation efficiency."
+
 - title: "Towards Fine-grained Knowledge Tracing by Hierarchical Fusion of Multiple Question Attributes"
   authors: "<strong>Shuanghong Shen</strong>, Qi Mo, Zhenya Huang, Yu Su, Linbo Zhu, Junyu, Qi Liu."
   venue: "<em>ACM Transactions on Information Systems, 2026, accepted.</em> [J]"
