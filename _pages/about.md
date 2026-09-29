@@ -94,9 +94,9 @@ redirect_from:
 # 🔥 News {#news}
 
 - *2026.08*: 🎉🎉 One paper "Detecting implicit inconsistency in multimodal fake news via fine-grained cross-modal adaptive reasoning" accepted by Information Processing & Management.
-- *2026.07*: 🎉🎉 One paper "Evidential Item Response Theory to Quantify Uncertainty of Cognitive Diagnosis" accepted by ECML PKDD 2026.
+- *2026.07*: 🎉🎉 One paper "Evidential Item Response Theory to Quantify Uncertainty of Cognitive Diagnosis" published in ECML PKDD 2026.
 - *2026.06*: 🎉🎉 One paper "Towards higher quality and fewer hallucinations: A multi-agent collaboration framework for LLMs" accepted by Information Processing & Management.
-- *2026.05*: 🎉🎉 Two papers "Group-Aware Cognitive Diagnosis" and "Topology-Preserving Incremental Cognitive Diagnosis" accepted by CogSci 2026.
+- *2026.05*: 🎉🎉 Two papers "Group-Aware Cognitive Diagnosis" and "Topology-Preserving Incremental Cognitive Diagnosis" published in CogSci 2026.
 - *2026.05*: 🎉🎉 One paper "基于视觉语言模型的多模态学生参与度预测方法" accepted by Acta Automatica Sinica (自动化学报).
 - *2026.04*: 🎉🎉 One paper "Good Ranks Follow Good Answers: Unsupervised Answer-Driven Reranking for Multimodal Document QA" accepted by SIGIR 2026.
 - *2026.01*: 🎉🎉 One paper accepted by ACM Transactions on Information Systems.
