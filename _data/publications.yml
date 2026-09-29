@@ -14,22 +14,22 @@
 
 - title: "Evidential Item Response Theory to Quantify Uncertainty of Cognitive Diagnosis"
   authors: "Dongxuan Han, <strong>Shuanghong Shen</strong>✉, Xin Zhang, Bin Feng, Xinjie Sun, Siqi Lei, Shiwei Tong, Wei Huang."
-  venue: "<em>Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML PKDD 2026).</em> [C]"
+  venue: "<em>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD 2026). 2026: 397-414.</em> [C]"
   link: "https://doi.org/10.1007/978-3-032-37664-0_23"
   image: "/images/papers/paper18.png"
   intro: "Understanding student ability with uncertainty is critical for reliable educational decision-making. This paper proposes Evidential Item Response Theory (EvidentIRT), an inductive variational autoencoder that models latent ability with a Normal-Inverse Gamma posterior. By aggregating item-wise pseudo-observations in closed form, EvidentIRT accurately quantifies aleatoric and epistemic uncertainty in a single forward pass."
 
 - title: "Group-Aware Cognitive Diagnosis via Variational Item Response Theory"
   authors: "Dongxuan Han, <strong>Shuanghong Shen</strong>✉, Siqi Lei, Bin Feng, Xinjie Sun, Xin Zhang, Shiwei Tong, Wei Huang."
-  venue: "<em>Proceedings of the 48th Annual Meeting of the Cognitive Science Society (CogSci 2026).</em> [C]"
+  venue: "<em>Proceedings of the 48th Annual Meeting of the Cognitive Science Society (CogSci 2026). 2026, 48.</em> [C]"
   link: "https://escholarship.org/uc/item/3b1963qk"
   image: "/images/papers/paper20.png"
   intro: "Traditional cognitive diagnosis models rely on mean-field assumptions that treat students as independent entities, ignoring intra-group dependencies in classes or schools. This paper introduces GLAD, a hierarchical variational framework that decomposes student ability into global, group, and individual components, utilizing a permutation-invariant encoder for scalable inference under sparse educational data."
 
 - title: "Topology-Preserving Incremental Cognitive Diagnosis for Emerging Skills"
   authors: "Dongxuan Han, <strong>Shuanghong Shen</strong>✉, Xin Zhang, Xinjie Sun, Bin Feng, Siqi Lei, Shiwei Tong, Wei Huang."
-  venue: "<em>Proceedings of the 48th Annual Meeting of the Cognitive Science Society (CogSci 2026).</em> [C]"
-  link: "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=aJgNc4wAAAAJ&sortby=pubdate&citation_for_view=aJgNc4wAAAAJ:isC4tDSrTZIC"
+  venue: "<em>Proceedings of the 48th Annual Meeting of the Cognitive Science Society (CogSci 2026). 2026, 48.</em> [C]"
+  link: "https://escholarship.org/uc/item/1nt6z962"
   image: "/images/papers/paper21.png"
   intro: "In real-world educational platforms, continuous introduction of new skills causes topology drift in neural cognitive diagnosis models, severely degrading performance on previously learned skills. This paper proposes TopoCD, a continual learning framework that regularizes updates with session-wise topology snapshots and bounded interaction replay to mitigate catastrophic forgetting while maintaining plasticity for emerging skills."
 
